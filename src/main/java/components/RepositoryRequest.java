@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 public class RepositoryRequest {
 	
 	// Must implement PolicyService
-		private HttpServletRequest request;
-		private HttpServletResponse response;
+	private HttpServletRequest request;
+	private HttpServletResponse response;
 
 }

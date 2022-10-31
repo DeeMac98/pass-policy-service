@@ -2,6 +2,6 @@ package components;
 
 public class SubmissionEffectivePolicies {
 	
-	//private String[] policyURIs = "json:'effectivePolicies'";
+	private String[] policyURIs; //"json:'effectivePolicies'";
 
 }
